@@ -13,6 +13,19 @@ This is a simple **Python program** that checks if you are eligible to vote base
 
 ---
 
+ 👨‍💻 Author
+
+Name: Ravi Raj
+
+Email: 📧 ravi_249026@saitm.ac.in
+
+LinkedIn: 🔗 in/ravi-raj-915077342
+
+GitHub: 🐱 https://github.com/Ravi-GitLab-7
+
+
+
+
 ## Code 📝
 
 ```python
@@ -22,3 +35,6 @@ if num >= 18:
     print("🎉 You are eligible for voting! 🗳️")
 else:
     print("🚫 You are not eligible for voting yet. ⏳")
+
+
+
